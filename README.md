@@ -1,4 +1,4 @@
-# Car price prediction using multiple linear regression
+# Car price prediction using multiple linear regression(from scratch)
 ### Label/integer encoding has been applied for the categorical features
 
 The columns in the given dataset are as follows:
